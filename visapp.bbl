@@ -1,0 +1,202 @@
+\begin{thebibliography}{}
+
+\bibitem[Aleksander~Radovan, 2024]{02_noauthor_review_nodate}
+Aleksander~Radovan, Goran~Dambic, B.~M. (July 2024).
+\newblock A review of passenger counting in public transport concepts based on
+  image processing and machine learning - [v1].
+
+\bibitem[Alkandary et~al., 2025]{103}
+Alkandary, K., Yildiz, A.~S., and Meng, H. (2025).
+\newblock A {Comparative} {Study} of {YOLO} {Series} (v3–v10) with {DeepSORT}
+  and {StrongSORT}: {A} {Real}-{Time} {Tracking} {Performance} {Study}.
+\newblock {\em Electronics}, 14(5):876.
+
+\bibitem[Bernardin and Stiefelhagen, 2008]{bernardin2008evaluating}
+Bernardin, K. and Stiefelhagen, R. (2008).
+\newblock Evaluating multiple object tracking performance: the clear mot
+  metrics.
+\newblock {\em EURASIP Journal on Image and Video Processing}, 2008(1):1--10.
+
+\bibitem[Bewley et~al., 2016]{220}
+Bewley, A., Ge, Z., Ott, L., Ramos, F., and Upcroft, B. (2016).
+\newblock {{Simple Online}} and {{Realtime Tracking}}.
+\newblock In {\em 2016 {{IEEE International Conference}} on {{Image
+  Processing}} ({{ICIP}})}, pages 3464--3468.
+
+\bibitem[Bochkovskiy et~al., 2020]{bochkovskiy2020yolov4}
+Bochkovskiy, A., Wang, C.-Y., and Liao, H.-Y.~M. (2020).
+\newblock Yolov4: Optimal speed and accuracy of object detection.
+\newblock In {\em arXiv preprint arXiv:2004.10934}.
+
+\bibitem[Chen et~al., 2012]{73_Huofu}
+Chen, J., Wen, Q., Zhuo, C., and Mete, M. (2012).
+\newblock Automatic head detection for passenger flow analysis in bus
+  surveillance videos.
+\newblock In {\em 2012 5th International Congress on Image and Signal
+  Processing}, pages 143--147.
+
+\bibitem[Cui et~al., 2023]{113}
+Cui, Y., Han, C., and Liu, D. (2023).
+\newblock Cml-{MOTS}: {Collaborative} {Multi}-task {Learning} for
+  {Multi}-{Object} {Tracking} and {Segmentation}.
+\newblock arXiv:2311.00987 [cs].
+
+\bibitem[Dai et~al., 2022]{104}
+Dai, Y., Hu, Z., Zhang, S., and Liu, L. (2022).
+\newblock A survey of detection-based video multi-object tracking.
+\newblock {\em Displays}, 75:102317.
+
+\bibitem[Di~Gennaro et~al., 9 01]{di_gennaro_hum-card_2024}
+Di~Gennaro, G., Greco, C., Buonanno, A., Cuciniello, M., Amorese, T., Ler,
+  M.~S., Cordasco, G., Palmieri, F. A.~N., and Esposito, A. (2024-09-01).
+\newblock {HUM}-{CARD}: A human crowded annotated real dataset.
+\newblock {\em Information Systems}, 124:102409.
+
+\bibitem[Ge et~al., 2025]{216}
+Ge, H., Yang, X., Fan, Z., Flammini, F., and Koshizuka, N. (2025).
+\newblock Simulation of emergency evacuation in large scale metropolitan
+  railway systems for urban resilience.
+\newblock {\em arXiv preprint arXiv:2507.19545}.
+
+\bibitem[Jocher et~al., 2023]{74_yolo11_Jocher_Ultralytics_YOLO_2023}
+Jocher, G., Qiu, J., and Chaurasia, A. (2023).
+\newblock {Ultralytics YOLO}.
+
+\bibitem[Kaur and Singh, 1 01]{29_kaur_systematic_2024}
+Kaur, J. and Singh, W. (2024-01-01).
+\newblock A systematic review of object detection from images using deep
+  learning.
+\newblock {\em Multimedia Tools and Applications}, 83(4):12253--12338.
+
+\bibitem[Kaur and Singh, 3 01]{28_kaur_comprehensive_2023}
+Kaur, R. and Singh, S. (2023-01).
+\newblock A comprehensive review of object detection with deep learning.
+\newblock {\em Digital Signal Processing}, 132:103812.
+
+\bibitem[Khan et~al., 2020]{30_khan_passenger_2020}
+Khan, S., Yousaf, M.~H., Murtaza, F., and Velastin, S. (2020).
+\newblock Passenger detection and counting for public transport system.
+\newblock {\em NED University Journal of Research}, XVII:35--46.
+
+\bibitem[Li et~al., 2023]{33or34_li_lightweight_2023}
+Li, X., Wu, Y., Fu, Y., Zhang, L., and Hong, R. (2023).
+\newblock A lightweight bus passenger detection model based on {YOLOv}5.
+\newblock {\em {IET} Image Processing}, 17(14):3927--3937.
+\newblock \_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1049/ipr2.12908.
+
+\bibitem[Li et~al., 2020]{222}
+Li, Y., Qin, Y., Xie, Z., Cao, Z., Jia, L., Yu, Z., Zheng, J., and Zhang, E.
+  (2020).
+\newblock Efficient ssd: A real-time intrusion object detection algorithm for
+  railway surveillance.
+\newblock In {\em 2020 International Conference on Sensing, Diagnostics,
+  Prognostics, and Control (SDPC)}, pages 391--395.
+
+\bibitem[Li et~al., 2018]{li2018csrnet}
+Li, Y., Zhang, X., and Chen, D. (2018).
+\newblock Csrnet: Dilated convolutional neural networks for understanding the
+  highly congested scenes.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 1091--1100.
+
+\bibitem[Liu et~al., 2022]{141}
+Liu, Q., Chen, D., Chu, Q., Yuan, L., Liu, B., Zhang, L., and Yu, N. (2022).
+\newblock Online {Multi}-{Object} {Tracking} with {Unsupervised}
+  {Re}-{Identification} {Learning} and {Occlusion} {Estimation}.
+\newblock arXiv:2201.01297 [cs].
+
+\bibitem[Luo et~al., 2020]{223_Luo_2020}
+Luo, H., Jiang, W., Gu, Y., Liu, F., Liao, X., Lai, S., and Gu, J. (2020).
+\newblock A strong baseline and batch normalization neck for deep person
+  re-identification.
+\newblock {\em IEEE Transactions on Multimedia}, 22(10):2597–2609.
+
+\bibitem[Ning et~al., 2023]{221_OccludedPersonReIdentification_ning2023}
+Ning, E., Wang, C., Zhangc, H., Ning, X., and Tiwari, P. (2023).
+\newblock Occluded person re-identification with deep learning: A survey and
+  perspectives.
+\newblock {\em arXiv preprint arXiv:2311.00603}.
+
+\bibitem[Redmon et~al., 2016]{redmon2016you}
+Redmon, J., Divvala, S., Girshick, R., and Farhadi, A. (2016).
+\newblock You only look once: Unified, real-time object detection.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 779--788.
+
+\bibitem[Ristani et~al., 2016]{ristani2016performance}
+Ristani, E., Solera, F., Zou, R., Cucchiara, R., and Tomasi, C. (2016).
+\newblock Performance measures and a data set for multi-target, multi-camera
+  tracking.
+\newblock {\em European Conference on Computer Vision}, pages 17--35.
+
+\bibitem[Schneider et~al., 2021]{214}
+Schneider, A., Krueger, E., Vollenwyder, B., Thurau, J., and Elfering, A.
+  (2021).
+\newblock Understanding the relations between crowd density, safety perception
+  and risk-taking behavior on train station platforms: A case study from
+  switzerland.
+\newblock {\em Transportation research interdisciplinary perspectives},
+  10:100390.
+
+\bibitem[Shao et~al., 2018]{shao2018crowdhuman}
+Shao, S., Zhao, Z., Li, B., Xiao, T., Yu, G., Zhang, X., and Sun, J. (2018).
+\newblock Crowdhuman: A benchmark for detecting human in a crowd.
+\newblock {\em arXiv preprint arXiv:1805.00123}.
+
+\bibitem[Tilly et~al., 2023]{OpenSensorDataforRail2023}
+Tilly, R., Neumaier, P., Schwalbe, K., Klasek, P., Tagiew, R., Denzler, P.,
+  Klockau, T., Boekhoff, M., and Köppel, M. (2023).
+\newblock Open sensor data for rail 2023.
+
+\bibitem[Waleed Khalid Al-Ghanem1 and Quadri, 6 20]{01_noauthor_deep_2024}
+Waleed Khalid Al-Ghanem1, Emad Ul Haq~Qazi, M. H.~F. and Quadri, S. S.~A.
+  (2024-06-20).
+\newblock Deep learning based efficient crowd counting system.
+\newblock {\em Computers, Materials and Continua}, 79(3):4001--4020.
+
+\bibitem[Wallner et~al., 2021]{RailEye3D_Dataset}
+Wallner, M., Steininger, D., Widhalm, V., Schoerghuber, M., and Beleznai, C.
+  (2021).
+\newblock Rgb-d railway platform monitoring and scene understanding for
+  enhanced passenger safety.
+\newblock In {\em Pattern Recognition. ICPR International Workshops and
+  Challenges}. Springer International Publishing.
+
+\bibitem[Wojke et~al., 2017]{211}
+Wojke, N., Bewley, A., and Paulus, D. (2017).
+\newblock Simple {Online} and {Realtime} {Tracking} with a {Deep} {Association}
+  {Metric}.
+\newblock arXiv:1703.07402 [cs].
+
+\bibitem[Xie and Yao, 2023]{212}
+Xie, T. and Yao, X. (2023).
+\newblock Smart logistics warehouse moving-object tracking based on yolov5 and
+  deepsort.
+\newblock {\em Applied Sciences}, 13:9895.
+
+\bibitem[Zhang et~al., 2024]{215}
+Zhang, J., Ai, Q., Ye, Y., and Deng, S. (2024).
+\newblock Dynamic flow analysis and crowd management for transfer stations: a
+  case study of suzhou metro.
+\newblock {\em Public Transport}, 16(2):619--653.
+
+\bibitem[Zhang et~al., 0 01]{66_zhang_bus_2020}
+Zhang, Y., Tu, W., Chen, K., Wu, C.~H., Li, L., Ip, W.~H., and Chan, C.~Y.
+  (2020-10-01).
+\newblock Bus passenger flow statistics algorithm based on deep learning.
+\newblock {\em Multimedia Tools and Applications}, 79(39):28785--28806.
+
+\bibitem[Zhang et~al., 2023]{132}
+Zhang, Y., Wang, T., and Zhang, X. (2023).
+\newblock Motrv2: {Bootstrapping} {End}-to-{End} {Multi}-{Object} {Tracking} by
+  {Pretrained} {Object} {Detectors}.
+\newblock arXiv:2211.09791 [cs].
+
+\bibitem[Zhang et~al., 2016]{zhang2016single}
+Zhang, Y., Zhou, D., Chen, S., Gao, S., and Ma, Y. (2016).
+\newblock Single-image crowd counting via multi-column convolutional neural
+  network.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 589--597.
+
+\end{thebibliography}

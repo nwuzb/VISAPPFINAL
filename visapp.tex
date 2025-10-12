@@ -1,0 +1,65 @@
+\documentclass[a4paper,twoside]{article}
+
+\usepackage{epsfig}
+\usepackage{subcaption}
+\usepackage{calc}
+\usepackage{amssymb}
+\usepackage{amstext}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{multicol}
+\usepackage{pslatex}
+\usepackage{apalike}
+\usepackage{algorithm2e}
+\usepackage[bottom]{footmisc}
+\usepackage{pdflscape}
+\usepackage{SCITEPRESS}     % Please add other packages that you may need BEFORE the SCITEPRESS.sty package.
+
+
+
+
+\begin{document}
+
+\title{Deep Learning based Multi-Object Tracking for Crowd Detection, Tracking and Counting on Railway Platforms}
+
+\author{\authorname{First Author Name\sup{1}\orcidAuthor{0000-0000-0000-0000}, Second Author Name\sup{1}\orcidAuthor{0000-0000-0000-0000} and Third Author Name\sup{2}\orcidAuthor{0000-0000-0000-0000}}
+\affiliation{\sup{1}Institute of Problem Solving, XYZ University, My Street, MyTown, MyCountry}
+\affiliation{\sup{2}Department of Computing, Main University, MySecondTown, MyCountry}
+\email{\{first\_author, second\_author\}@ips.xyz.edu, third\_author@dc.mu.edu}}
+
+\keywords{Crowd Counting, Multi-Object Tracking, DeepSORT, YOLO, Depth Estimation}
+
+\abstract{We address real-time crowd detection, tracking, and unique counting on railway platforms under dense occlusions, strong perspective distortions, and camera motion during train arrivals. Building on a detect–track–count pipeline, we integrate a two-stage transfer-learned YOLOv11m head detector with an EfficientNet-B0 appearance encoder within a DeepSORT framework, and introduce a physics-constrained five-dimensional Kalman model (Phys-5D) that lifts image-plane kinematics to 3D via pinhole geometry while enforcing physically plausible depth dynamics. To overcome the brittleness of line-crossing under jitter and brief occlusions, we further propose a virtual counting band with persistence. On a representative MOT-format platform benchmark (20 videos, 18.5k frames), fine-tuning improves detection performance from mAP50 = 79.4\% / mAP50–95 = 54.7\% to 98.0\% / 81.6\%. Counting error is reduced to 2.24\% using our Phys-5D model, while maintaining an average of 39 identity switches. These results demonstrate that incorporating first-principles geometry and motion priors stabilizes trajectories and achieves state-of-the-art counting accuracy in safety-critical transportation scenarios, which in turn facilitates more effective train scheduling and enhances platform safety management.}
+
+\onecolumn \maketitle \normalsize \setcounter{footnote}{0} \vfill
+
+\section{\uppercase{Introduction}}
+\label{sec:introduction}
+\input{01_Introduction}
+
+
+\section{\uppercase{Related Work}}
+\label{sec:related_work}
+\input{02_Related Work}
+
+\section{\uppercase{Methods}}
+\label{sec:methods}
+\input{03_Methods}
+
+\section{\uppercase{Experiment}}
+\label{sec:experiment}
+\input{04_Experiment}
+
+\section{\uppercase{Conclusion}}
+\label{sec:conclusion}
+\input{05_Conclusion}
+
+\bibliographystyle{apalike}
+{\small
+\bibliography{visapp}}
+
+\input{appendix.tex}
+
+
+\end{document}
+
